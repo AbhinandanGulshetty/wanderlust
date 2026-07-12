@@ -52,7 +52,7 @@ Make sure you have the following installed on your system:
 
 1.  **Clone the repository:**
     ```sh
-    git clone [https://github.com/Mehul-Agarwaal/wanderlust.git](https://github.com/Mehul-Agarwaal/wanderlust.git)
+    git clone [https://github.com/AbhinandanGulshetty/wanderlust.git](
     cd wanderlust
     ```
 
@@ -97,8 +97,8 @@ Make sure you have the following installed on your system:
 
 ## 👤 Author
 
-**Mehul Agarwal**
+**Abhinandan Gulshetty**
 
-* **GitHub:** [@Mehul-Agarwaal](https://github.com/Mehul-Agarwaal)
+* **GitHub:** [@AbhinandanGulshetty](https://github.com/AbhinandanGulshetty)
 
 Feel free to reach out if you have any questions or suggestions!
